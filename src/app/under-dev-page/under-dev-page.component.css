@@ -1,0 +1,16 @@
+.notification{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+.notification div{
+    background-color: var(--primary-theme-color);
+    padding: 2rem;
+    box-shadow:  5px 5px 14px #102b32,
+             -5px -5px 14px #163b44;
+}

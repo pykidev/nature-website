@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: var(--primary-theme-color);
+    color: var(--text-theme-color);
+    /* border-radius: 50px; */
+    /* background: #13333b; */
+}
+nav img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
